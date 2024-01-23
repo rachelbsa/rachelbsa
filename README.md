@@ -1,4 +1,14 @@
-### Hi there 👋
+<h3>Olá pessoal, eu sou Rachel Sá 🙋🏼‍♀️</h3>
+
+Desenvolvedora em formação, encantada com tudo que tenho aprendido e eufórica com as infinitas possibilidades do mundo tecnológico.🌎💻
+
+<ul>
+<li>Sou aluna DevClub - a melhor plataforma de ensino para desenvolver programadores.</li>
+<li>Atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando aprendizado de JavaScrip e React.</li>
+</ul>
+
+
+
 
 <!--
 **rachelbsa/rachelbsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
