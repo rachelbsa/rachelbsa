@@ -3,7 +3,7 @@
 Desenvolvedora em formação, encantada com tudo que tenho aprendido e eufórica com as infinitas possibilidades do mundo tecnológico.🌎💻
 
 <ul>
-<li>Aluna DevClub - a melhor plataforma de ensino para desenvolver programadores.</li>
+<li>Aluna <a href="https://rodolfomori.com.br/devclub">DevClub</a>- a melhor plataforma de ensino para desenvolver programadores.</li>
 <li>Atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando aprendizado de JavaScrip e React.</li>
 </ul>
 
